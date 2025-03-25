@@ -1,7 +1,7 @@
 const container = document.querySelector(".main") 
 
 function showCards() {
-    for(let i = 0; i < 8; i++) {
+    for(let i = 0; i < 4; i++) {
     
         container.innerHTML += `
             <div class="element">
